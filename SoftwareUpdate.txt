@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add YOLOv8 LibTorch C++ inference example (#7090)
