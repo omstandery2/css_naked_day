@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
