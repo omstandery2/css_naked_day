@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
