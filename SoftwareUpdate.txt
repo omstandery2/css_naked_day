@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
