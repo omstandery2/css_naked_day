@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Add new YOLOv8 OBB model metrics (#7379)
