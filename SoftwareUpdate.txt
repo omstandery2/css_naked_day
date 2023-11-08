@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
