@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Improve Coral Edge TPU guide (#8160)
