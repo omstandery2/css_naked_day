@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
