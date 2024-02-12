@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Update mkdocs.yml (#7693)
