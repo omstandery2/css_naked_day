@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add C++ Classify inference example (#6868)
